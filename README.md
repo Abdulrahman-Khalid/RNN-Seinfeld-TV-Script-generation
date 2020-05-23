@@ -18,13 +18,22 @@
 
 ## 📝 About This Nano-Degree
 
-Become an expert in neural networks, and learn to implement them using the deep learning framework PyTorch. Build convolutional networks for image recognition, recurrent networks for sequence generation, generative adversarial networks for image generation, and learn how to deploy models accessible from a website.
+The Deep Learning Nanodegree program offers you a solid introduction to the world of artificial intelligence.
+In this program, you’ll master fundamentals that will enable you to go further in the field, launch or advance
+a career, and join the next generation of deep learning talent that will help define a beneficial, new,
+AI-powered future for our world. You will study cutting-edge topics such as Neural Networks, Convolutional
+Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, and Network Deployment,
+and build projects in PyTorch and NumPy. You’ll learn from authorities such Ian Goodfellow and Jun-Yan
+Zhu, inventors of types of generative adversarial networks, as well as AI experts, Sebastian Thrun and Andrew
+Trask. For anyone interested in this transformational technology, this program is an ideal point-of-entry.
+The program is comprised of 5 courses and 5 projects. Each project you build will be an opportunity to
+prove your skills and demonstrate what you’ve learned in your lessons.
 
 -----------------------------------------------------------------------------------------------------------------------
 ## 📝 About This Course
 ### 🌟 Recurrent Neural Networks
 
-This course is part of udacity deep learning nano-degree program in which you can build your own recurrent networks and long short-term memory networks with PyTorch; perform sentiment analysis and use recurrent networks to generate new text from TV scripts.
+This course is part of udacity deep learning nano-degree program in which you build your own recurrent networks and long short-term memory networks with PyTorch; perform sentiment analysis and use recurrent networks to generate new text from TV scripts.
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## 📝 About This Project
